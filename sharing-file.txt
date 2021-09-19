@@ -1,5 +1,5 @@
 Sharing File
 -Digunakan untuk uploading file tugas
 -File game jika perlu dan yg berhubungan
--File teman
 -File Foto dan video
+-File bersama
